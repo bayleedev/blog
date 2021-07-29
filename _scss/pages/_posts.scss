@@ -158,3 +158,11 @@
 #next:hover .nav-title {
   display: inline;
 }
+
+.tags > span {
+  color: lighten($text-color, 20%);
+
+  &:hover {
+    color: darken($text-color, 40%);
+  }
+}

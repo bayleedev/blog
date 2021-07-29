@@ -2,7 +2,7 @@
 layout: post
 title:  "👋 Welcome"
 date:   2021-07-28 15:00:00 -0700
-categories: jekyll update
+tags: jekyll update
 ---
 Hello, I'm Baylee and I use they/them pronouns.
 

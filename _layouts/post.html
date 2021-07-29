@@ -15,6 +15,16 @@ layout: default
     <div itemprop="articleBody">
       {{ content }}
     </div>
+    <div class="tags">
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <span>
+          <code class="highligher-rouge">
+            <nobr>#{{ tag_name }}</nobr>
+          </code>&nbsp;
+        </span>
+      {% endfor %}
+    </div>
     <div class="feat share">
       <a href="http://twitter.com/share" class="popup">
         <span class="icon-twitter"></span>
