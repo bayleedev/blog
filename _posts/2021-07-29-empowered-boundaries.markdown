@@ -4,7 +4,7 @@ title:  "💚 Empowered Boundaries"
 date:   2021-07-29 10:00:00 -0700
 tags: philosophy needs-based-relating
 ---
-I’m going to distinguish between 4 concepts: rules, boundaries and requests. This is largely based on my multi-year adventure with needs based relating, a way of empowering yourself to build connections and change the world around you. I’ve been doing some self discovery and realized I had a lot of “rules”, which I don’t think are serving me anymore and need to be updated to better fit my world view, this is the process that I created to do that.
+I’m going to distinguish between the concepts: rules, boundaries and requests. This is largely based on my multi-year adventure with needs based relating, a way of empowering yourself to build connections and change the world around you. I’ve been doing some self discovery and realized I had a lot of “rules”, which I don’t think are serving me anymore and need to be updated to better fit my world view, this is the process that I created to do that.
 
 ### Rules
 
